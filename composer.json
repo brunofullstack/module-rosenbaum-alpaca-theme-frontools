@@ -1,0 +1,15 @@
+{
+    "name": "crearepp/module-rosenbaum-alpaca-theme-frontools",
+    "description": "Module theme child frontools",
+    "type": "libra",
+    "authors": [
+        {
+            "name": "Bruno Carvalho",
+            "email": "brunofullstack@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
