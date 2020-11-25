@@ -1,0 +1,9 @@
+{
+    "proxy": "localhost:3000",
+    "rewriteRules": [
+      {
+        "match": ".localhost:3000",
+        "replace": ""
+      }
+    ]
+  }
